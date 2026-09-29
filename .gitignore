@@ -1,0 +1,7 @@
+.venv/
+.preview/
+__pycache__/
+# Keep the original photo out of the public repo; only the ASCII output ships.
+assets/source-photo.jpg
+assets/source-prepped.png
+assets/source-mask.png

@@ -1,0 +1,7 @@
+# Daily heatmap refresh (the only thing CI installs)
+-r requirements-ci.txt
+# Portrait pipeline, run locally when the photo changes
+pillow
+numpy
+opencv-python-headless
+rembg[cpu]
